@@ -12,7 +12,9 @@ Opens a window, event handling, simple drawing, and that's about it.
 Include trivial raw bitmap/framebuffer drawing routines.
 Include some basic 3d rendering support.
 
-Builds on several backends including my own guilib, SDL, OpenGL, GLUT, and plain text.
+Event handling concept cribbed from GLUT...because this grew from a GLUT example...no...really...
+
+Builds on several backends including my own nlib or guilib, SDL, OpenGL, GLUT, and plain text.
 (But some are just skeletons).
 
 Test programs...
